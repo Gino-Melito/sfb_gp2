@@ -48,11 +48,8 @@ with col4:
 with col5:
     st.header("Bild 5")
     st.image(e)
-
+#Gino Melito 
 with col6:
     st.header("Bild 6")
    
-   #Gino Melito ist hier !!!!!
-   #Gino Melito ist hier !!!!!
-   #Gino Melito ist hier !!!!!
-   #Gino Melito ist hier !!!!!
+   
